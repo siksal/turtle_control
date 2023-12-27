@@ -1,0 +1,4 @@
+int16 front_wheel 20 # front wheel initial velocity is 20 m/s
+int16 rear_wheel 15 # rear wheel iniatial velocity is 15 m/s
+---
+bool stop_robot false
