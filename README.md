@@ -23,4 +23,4 @@ Run the turtle catcher:
 ```
 ros2 launch turtle_control turtle_catcher.launch.py
 ```
-![turtle-catcher](https://github.com/siksal/turtle_control/blob/master/media/turtle_catcher.gif)
+![turtle-catcher](https://github.com/siksal/turtle_control/blob/main/media/turtle_catcher.gif)
